@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="add_products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bill_entry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashbord.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="overview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="purchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="remain_stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
