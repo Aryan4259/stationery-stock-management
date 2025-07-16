@@ -1,4 +1,3 @@
-# stationery-stock-management
 # Stationery Stock Management System (VB.NET)
 
 A simple desktop application built with VB.NET for managing stationery stock. It includes both admin and user features in one system.
